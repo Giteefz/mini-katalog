@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kablosuz Kulaklık",
+    "description": "Oyun ve müzik için hafif, kablosuz kulaklık.",
+    "price": 749.90,
+    "image": "assets/images/kulaklik.png"
+  },
+  {
+    "name": "Oyun Faresi",
+    "description": "Ayarlanabilir hassasiyete sahip kablolu oyun faresi.",
+    "price": 429.90,
+    "image": "assets/images/fare.png"
+  },
+  {
+    "name": "Mekanik Klavye",
+    "description": "Aydınlatmalı, kompakt mekanik klavye.",
+    "price": 1199.90,
+    "image": "assets/images/klavye.png"
+  }
+]
